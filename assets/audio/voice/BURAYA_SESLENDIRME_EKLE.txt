@@ -1,0 +1,1 @@
+Bu klasöre .ogg diyalog seslendirme dosyalarını koy. Liste için ../VOICE_MANIFEST.md'ye bak.
