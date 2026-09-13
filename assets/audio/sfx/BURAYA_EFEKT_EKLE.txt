@@ -1,0 +1,1 @@
+Bu klasöre .ogg efekt dosyalarını koy. Liste için ../README.md'ye bak.
